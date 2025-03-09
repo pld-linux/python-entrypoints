@@ -112,7 +112,7 @@ Dokumentacja API modułu Pythona entrypoints.
 
 %prep
 %setup -q -n entrypoints-%{version}
-%patch0 -p1
+%patch -P 0 -p1
 
 %build
 %if %{with python2}
