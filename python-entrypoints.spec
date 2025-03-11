@@ -9,7 +9,7 @@ Summary:	Discover and load entry points from installed packages
 Summary(pl.UTF-8):	Wykrywanie i wczytywanie punktów wejścia z zainstalowanych pakietów
 Name:		python-entrypoints
 Version:	0.3
-Release:	7
+Release:	8
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/entrypoints/
